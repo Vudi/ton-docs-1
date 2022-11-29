@@ -6,11 +6,11 @@ This is a concept article. We're still looking for someone experienced to write 
 
 ## Wallets
 
-To read more about wallets, feel free to check out the [WALLET APPS](/participate/wallets/apps) section.
+To read more about wallets, feel free to check out the [WALLET APPS]([/participate/wallets/apps](https://github.com/ton-community/ton-docs/blob/main/docs/participate/wallets/apps.md) section.
 
 ## Run a node
 
-To read more about nodes, feel free to check out the [NODE TYPES](/participate/nodes/node-types) section.
+To read more about nodes, feel free to check out the [NODE TYPES]([/participate/nodes/node-types](https://github.com/ton-community/ton-docs/blob/main/docs/participate/nodes/node-types.md)) section.
 
 ## Validators vs Nominators
 
